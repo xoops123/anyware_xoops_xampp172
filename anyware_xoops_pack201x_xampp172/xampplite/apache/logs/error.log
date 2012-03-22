@@ -1,0 +1,115 @@
+[Tue Jan 10 21:53:40 2012] [notice] Digest: generating secret for digest authentication ...
+[Tue Jan 10 21:53:40 2012] [notice] Digest: done
+[Tue Jan 10 21:53:43 2012] [notice] Apache/2.2.12 (Win32) DAV/2 mod_ssl/2.2.12 OpenSSL/0.9.8k mod_autoindex_color PHP/5.3.0 configured -- resuming normal operations
+[Tue Jan 10 21:53:43 2012] [notice] Server built: Jul 22 2009 11:35:54
+[Tue Jan 10 21:53:43 2012] [notice] Parent: Created child process 5704
+[Tue Jan 10 21:53:44 2012] [notice] Digest: generating secret for digest authentication ...
+[Tue Jan 10 21:53:44 2012] [notice] Digest: done
+[Tue Jan 10 21:53:46 2012] [notice] Child 5704: Child process is running
+[Tue Jan 10 21:53:46 2012] [notice] Child 5704: Acquired the start mutex.
+[Tue Jan 10 21:53:46 2012] [notice] Child 5704: Starting 150 worker threads.
+[Tue Jan 10 21:53:46 2012] [notice] Child 5704: Starting thread to listen on port 443.
+[Tue Jan 10 21:53:46 2012] [notice] Child 5704: Starting thread to listen on port 80.
+[Tue Jan 10 21:57:58 2012] [error] [client 127.0.0.1] File does not exist: Z:/xampplite/htdocs/uploads, referer: http://localhost/pack2011/
+[Tue Jan 10 21:58:59 2012] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Tue Jan 10 21:58:59 2012] [notice] Child 5704: Exit event signaled. Child process is ending.
+[Tue Jan 10 21:59:00 2012] [notice] Child 5704: Released the start mutex
+[Tue Jan 10 21:59:01 2012] [notice] Child 5704: All worker threads have exited.
+[Tue Jan 10 21:59:01 2012] [notice] Child 5704: Child process is exiting
+[Tue Jan 10 21:59:01 2012] [notice] Parent: Child process exited successfully.
+[Thu Mar 22 18:49:28 2012] [notice] Digest: generating secret for digest authentication ...
+[Thu Mar 22 18:49:28 2012] [notice] Digest: done
+[Thu Mar 22 18:49:30 2012] [notice] Apache/2.2.12 (Win32) DAV/2 mod_ssl/2.2.12 OpenSSL/0.9.8k mod_autoindex_color PHP/5.3.0 configured -- resuming normal operations
+[Thu Mar 22 18:49:30 2012] [notice] Server built: Jul 22 2009 11:35:54
+[Thu Mar 22 18:49:30 2012] [notice] Parent: Created child process 1204
+[Thu Mar 22 18:49:31 2012] [notice] Digest: generating secret for digest authentication ...
+[Thu Mar 22 18:49:31 2012] [notice] Digest: done
+[Thu Mar 22 18:49:32 2012] [notice] Child 1204: Child process is running
+[Thu Mar 22 18:49:32 2012] [notice] Child 1204: Acquired the start mutex.
+[Thu Mar 22 18:49:32 2012] [notice] Child 1204: Starting 150 worker threads.
+[Thu Mar 22 18:49:32 2012] [notice] Child 1204: Starting thread to listen on port 443.
+[Thu Mar 22 18:49:32 2012] [notice] Child 1204: Starting thread to listen on port 80.
+[Thu Mar 22 18:50:15 2012] [error] [client 127.0.0.1] File does not exist: Z:/xampplite/htdocs/uploads, referer: http://localhost/pack2011/
+[Thu Mar 22 19:02:49 2012] [error] [client 127.0.0.1] File does not exist: Z:/xampplite/htdocs/uploads, referer: http://localhost/pack2011/
+[Thu Mar 22 19:02:54 2012] [error] [client 127.0.0.1] File does not exist: Z:/xampplite/htdocs/pack2011/modules/xpwiki/favicon.ico
+[Thu Mar 22 19:02:56 2012] [error] [client 127.0.0.1] File does not exist: Z:/xampplite/htdocs/pack2011/modules/xpwiki/favicon.ico
+[Thu Mar 22 19:24:37 2012] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Thu Mar 22 19:24:37 2012] [notice] Child 1204: Exit event signaled. Child process is ending.
+[Thu Mar 22 19:24:38 2012] [notice] Child 1204: Released the start mutex
+[Thu Mar 22 19:25:07 2012] [notice] Parent: Forcing termination of child process 364 
+[Thu Mar 22 20:53:07 2012] [notice] Digest: generating secret for digest authentication ...
+[Thu Mar 22 20:53:07 2012] [notice] Digest: done
+[Thu Mar 22 20:53:09 2012] [notice] Apache/2.2.12 (Win32) DAV/2 mod_ssl/2.2.12 OpenSSL/0.9.8k mod_autoindex_color PHP/5.3.0 configured -- resuming normal operations
+[Thu Mar 22 20:53:09 2012] [notice] Server built: Jul 22 2009 11:35:54
+[Thu Mar 22 20:53:09 2012] [notice] Parent: Created child process 2880
+[Thu Mar 22 20:53:11 2012] [notice] Digest: generating secret for digest authentication ...
+[Thu Mar 22 20:53:11 2012] [notice] Digest: done
+[Thu Mar 22 20:53:12 2012] [notice] Child 2880: Child process is running
+[Thu Mar 22 20:53:12 2012] [notice] Child 2880: Acquired the start mutex.
+[Thu Mar 22 20:53:12 2012] [notice] Child 2880: Starting 150 worker threads.
+[Thu Mar 22 20:53:12 2012] [notice] Child 2880: Starting thread to listen on port 443.
+[Thu Mar 22 20:53:12 2012] [notice] Child 2880: Starting thread to listen on port 80.
+[Thu Mar 22 20:53:25 2012] [error] [client 127.0.0.1] File does not exist: Z:/xampplite/htdocs/uploads, referer: http://localhost/pack2011/
+[Thu Mar 22 20:56:43 2012] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Thu Mar 22 20:56:43 2012] [notice] Child 2880: Exit event signaled. Child process is ending.
+[Thu Mar 22 20:56:44 2012] [notice] Child 2880: Released the start mutex
+[Thu Mar 22 20:56:45 2012] [notice] Child 2880: All worker threads have exited.
+[Thu Mar 22 20:56:45 2012] [notice] Child 2880: Child process is exiting
+[Thu Mar 22 20:56:45 2012] [notice] Parent: Child process exited successfully.
+[Thu Mar 22 20:56:53 2012] [notice] Digest: generating secret for digest authentication ...
+[Thu Mar 22 20:56:53 2012] [notice] Digest: done
+[Thu Mar 22 20:56:54 2012] [notice] Apache/2.2.12 (Win32) DAV/2 mod_ssl/2.2.12 OpenSSL/0.9.8k mod_autoindex_color PHP/5.3.0 configured -- resuming normal operations
+[Thu Mar 22 20:56:54 2012] [notice] Server built: Jul 22 2009 11:35:54
+[Thu Mar 22 20:56:54 2012] [notice] Parent: Created child process 4720
+[Thu Mar 22 20:56:56 2012] [notice] Digest: generating secret for digest authentication ...
+[Thu Mar 22 20:56:56 2012] [notice] Digest: done
+[Thu Mar 22 20:56:57 2012] [notice] Child 4720: Child process is running
+[Thu Mar 22 20:56:57 2012] [notice] Child 4720: Acquired the start mutex.
+[Thu Mar 22 20:56:57 2012] [notice] Child 4720: Starting 150 worker threads.
+[Thu Mar 22 20:56:57 2012] [notice] Child 4720: Starting thread to listen on port 443.
+[Thu Mar 22 20:56:57 2012] [notice] Child 4720: Starting thread to listen on port 80.
+[Thu Mar 22 20:57:51 2012] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Thu Mar 22 20:57:51 2012] [notice] Child 4720: Exit event signaled. Child process is ending.
+[Thu Mar 22 20:57:52 2012] [notice] Child 4720: Released the start mutex
+[Thu Mar 22 20:57:53 2012] [notice] Child 4720: All worker threads have exited.
+[Thu Mar 22 20:57:53 2012] [notice] Child 4720: Child process is exiting
+[Thu Mar 22 20:57:53 2012] [notice] Parent: Child process exited successfully.
+[Thu Mar 22 20:57:59 2012] [notice] Digest: generating secret for digest authentication ...
+[Thu Mar 22 20:57:59 2012] [notice] Digest: done
+[Thu Mar 22 20:58:01 2012] [notice] Apache/2.2.12 (Win32) DAV/2 mod_ssl/2.2.12 OpenSSL/0.9.8k mod_autoindex_color PHP/5.3.0 configured -- resuming normal operations
+[Thu Mar 22 20:58:01 2012] [notice] Server built: Jul 22 2009 11:35:54
+[Thu Mar 22 20:58:01 2012] [notice] Parent: Created child process 3272
+[Thu Mar 22 20:58:02 2012] [notice] Digest: generating secret for digest authentication ...
+[Thu Mar 22 20:58:02 2012] [notice] Digest: done
+[Thu Mar 22 20:58:04 2012] [notice] Child 3272: Child process is running
+[Thu Mar 22 20:58:04 2012] [notice] Child 3272: Acquired the start mutex.
+[Thu Mar 22 20:58:04 2012] [notice] Child 3272: Starting 150 worker threads.
+[Thu Mar 22 20:58:04 2012] [notice] Child 3272: Starting thread to listen on port 443.
+[Thu Mar 22 20:58:04 2012] [notice] Child 3272: Starting thread to listen on port 80.
+[Thu Mar 22 20:58:20 2012] [error] [client 127.0.0.1] File does not exist: Z:/xampplite/htdocs/uploads, referer: http://localhost/pack2011/
+[Thu Mar 22 21:08:04 2012] [error] [client 127.0.0.1] File does not exist: Z:/xampplite/htdocs/uploads, referer: http://localhost/pack2011/
+[Thu Mar 22 21:11:13 2012] [error] [client 127.0.0.1] File does not exist: Z:/xampplite/htdocs/xoops_trust_path, referer: http://localhost/pack2011/modules/protector/admin/index.php?page=advisory
+[Thu Mar 22 21:14:16 2012] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Thu Mar 22 21:14:16 2012] [notice] Child 3272: Exit event signaled. Child process is ending.
+[Thu Mar 22 21:14:17 2012] [notice] Child 3272: Released the start mutex
+[Thu Mar 22 21:14:46 2012] [notice] Parent: Forcing termination of child process 364 
+[Thu Mar 22 21:14:52 2012] [notice] Digest: generating secret for digest authentication ...
+[Thu Mar 22 21:14:52 2012] [notice] Digest: done
+[Thu Mar 22 21:14:53 2012] [notice] Apache/2.2.12 (Win32) DAV/2 mod_ssl/2.2.12 OpenSSL/0.9.8k mod_autoindex_color PHP/5.3.0 configured -- resuming normal operations
+[Thu Mar 22 21:14:53 2012] [notice] Server built: Jul 22 2009 11:35:54
+[Thu Mar 22 21:14:53 2012] [notice] Parent: Created child process 4828
+[Thu Mar 22 21:14:54 2012] [notice] Digest: generating secret for digest authentication ...
+[Thu Mar 22 21:14:54 2012] [notice] Digest: done
+[Thu Mar 22 21:14:54 2012] [notice] Child 4828: Child process is running
+[Thu Mar 22 21:14:55 2012] [notice] Child 4828: Acquired the start mutex.
+[Thu Mar 22 21:14:55 2012] [notice] Child 4828: Starting 150 worker threads.
+[Thu Mar 22 21:14:55 2012] [notice] Child 4828: Starting thread to listen on port 443.
+[Thu Mar 22 21:14:55 2012] [notice] Child 4828: Starting thread to listen on port 80.
+[Thu Mar 22 21:15:05 2012] [error] [client 127.0.0.1] File does not exist: Z:/xampplite/htdocs/uploads, referer: http://localhost/pack2011/
+[Thu Mar 22 21:17:22 2012] [error] [client 127.0.0.1] File does not exist: Z:/xampplite/htdocs/uploads, referer: http://localhost/pack2011/
+[Thu Mar 22 21:17:45 2012] [error] [client 127.0.0.1] File does not exist: Z:/xampplite/htdocs/uploads, referer: http://localhost/pack2011/
+[Thu Mar 22 21:19:24 2012] [error] [client 127.0.0.1] File does not exist: Z:/xampplite/htdocs/uploads, referer: http://localhost/pack2011/
+[Thu Mar 22 21:20:08 2012] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Thu Mar 22 21:20:08 2012] [notice] Child 4828: Exit event signaled. Child process is ending.
+[Thu Mar 22 21:20:09 2012] [notice] Child 4828: Released the start mutex
+[Thu Mar 22 21:20:38 2012] [notice] Parent: Forcing termination of child process 364 

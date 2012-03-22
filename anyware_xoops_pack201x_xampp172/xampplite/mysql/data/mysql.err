@@ -1,0 +1,108 @@
+120110 21:53:41 [Note] Plugin 'FEDERATED' is disabled.
+120110 21:53:41 [Note] PrimeBase XT (PBXT) Engine 1.0.08 RC loaded...
+120110 21:53:41 [Note] Paul McCullagh, PrimeBase Technologies GmbH, http://www.primebase.org
+120110 21:53:46  InnoDB: Started; log sequence number 0 46409
+120110 21:53:47 [Note] Event Scheduler: Loaded 0 events
+120110 21:53:47 [Note] z:\xampplite\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.1.37'  socket: ''  port: 3306  Source distribution
+120110 21:58:48 [Note] z:\xampplite\mysql\bin\mysqld.exe: Normal shutdown
+
+120110 21:58:49 [Note] Event Scheduler: Purging the queue. 0 events
+120110 21:58:50  InnoDB: Starting shutdown...
+120110 21:58:50  InnoDB: Shutdown completed; log sequence number 0 46409
+120110 21:58:50 [Note] PrimeBase XT Engine shutdown...
+120110 21:58:50 [Warning] Forcing shutdown of 1 plugins
+120110 21:58:50 [Note] z:\xampplite\mysql\bin\mysqld.exe: Shutdown complete
+
+120322 18:49:40 [Note] Plugin 'FEDERATED' is disabled.
+120322 18:49:40 [Note] PrimeBase XT (PBXT) Engine 1.0.08 RC loaded...
+120322 18:49:40 [Note] Paul McCullagh, PrimeBase Technologies GmbH, http://www.primebase.org
+120322 18:49:40  InnoDB: Started; log sequence number 0 46409
+120322 18:49:41 [Note] Event Scheduler: Loaded 0 events
+120322 18:49:41 [Note] z:\xampplite\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.1.37'  socket: ''  port: 3306  Source distribution
+120322 19:24:24 [Note] z:\xampplite\mysql\bin\mysqld.exe: Normal shutdown
+
+120322 19:24:25 [Note] Event Scheduler: Purging the queue. 0 events
+120322 19:24:27 [Warning] z:\xampplite\mysql\bin\mysqld.exe: Forcing close of thread 20  user: 'root'
+
+120322 19:24:27 [Warning] z:\xampplite\mysql\bin\mysqld.exe: Forcing close of thread 15  user: 'root'
+
+120322 19:24:27  InnoDB: Starting shutdown...
+120322 19:24:28  InnoDB: Shutdown completed; log sequence number 0 46409
+120322 19:24:28 [Note] PrimeBase XT Engine shutdown...
+120322 19:24:28 [Warning] Forcing shutdown of 1 plugins
+120322 19:24:28 [Note] z:\xampplite\mysql\bin\mysqld.exe: Shutdown complete
+
+120322 20:53:06 [Note] Plugin 'FEDERATED' is disabled.
+120322 20:53:06 [Note] PrimeBase XT (PBXT) Engine 1.0.08 RC loaded...
+120322 20:53:06 [Note] Paul McCullagh, PrimeBase Technologies GmbH, http://www.primebase.org
+120322 20:53:09  InnoDB: Started; log sequence number 0 46409
+120322 20:53:12 [Note] Event Scheduler: Loaded 0 events
+120322 20:53:12 [Note] z:\xampplite\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.1.37'  socket: ''  port: 3306  Source distribution
+120322 20:56:33 [Note] z:\xampplite\mysql\bin\mysqld.exe: Normal shutdown
+
+120322 20:56:34 [Note] Event Scheduler: Purging the queue. 0 events
+120322 20:56:34  InnoDB: Starting shutdown...
+120322 20:56:35  InnoDB: Shutdown completed; log sequence number 0 46409
+120322 20:56:35 [Note] PrimeBase XT Engine shutdown...
+120322 20:56:35 [Warning] Forcing shutdown of 1 plugins
+120322 20:56:35 [Note] z:\xampplite\mysql\bin\mysqld.exe: Shutdown complete
+
+120322 20:56:53 [Note] Plugin 'FEDERATED' is disabled.
+120322 20:56:54 [Note] PrimeBase XT (PBXT) Engine 1.0.08 RC loaded...
+120322 20:56:54 [Note] Paul McCullagh, PrimeBase Technologies GmbH, http://www.primebase.org
+120322 20:56:57  InnoDB: Started; log sequence number 0 46409
+120322 20:56:58 [Note] Event Scheduler: Loaded 0 events
+120322 20:56:58 [Note] z:\xampplite\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.1.37'  socket: ''  port: 3306  Source distribution
+120322 20:57:40 [Note] z:\xampplite\mysql\bin\mysqld.exe: Normal shutdown
+
+120322 20:57:42 [Note] Event Scheduler: Purging the queue. 0 events
+120322 20:57:42  InnoDB: Starting shutdown...
+120322 20:57:43  InnoDB: Shutdown completed; log sequence number 0 46409
+120322 20:57:43 [Note] PrimeBase XT Engine shutdown...
+120322 20:57:43 [Warning] Forcing shutdown of 1 plugins
+120322 20:57:43 [Note] z:\xampplite\mysql\bin\mysqld.exe: Shutdown complete
+
+120322 20:58:01 [Note] Plugin 'FEDERATED' is disabled.
+120322 20:58:02 [Note] PrimeBase XT (PBXT) Engine 1.0.08 RC loaded...
+120322 20:58:02 [Note] Paul McCullagh, PrimeBase Technologies GmbH, http://www.primebase.org
+120322 20:58:04  InnoDB: Started; log sequence number 0 46409
+120322 20:58:05 [Note] Event Scheduler: Loaded 0 events
+120322 20:58:05 [Note] z:\xampplite\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.1.37'  socket: ''  port: 3306  Source distribution
+120322 21:14:00 [Note] z:\xampplite\mysql\bin\mysqld.exe: Normal shutdown
+
+120322 21:14:01 [Note] Event Scheduler: Purging the queue. 0 events
+120322 21:14:03 [Warning] z:\xampplite\mysql\bin\mysqld.exe: Forcing close of thread 45  user: 'root'
+
+120322 21:14:03 [Warning] z:\xampplite\mysql\bin\mysqld.exe: Forcing close of thread 44  user: 'root'
+
+120322 21:14:03  InnoDB: Starting shutdown...
+120322 21:14:04  InnoDB: Shutdown completed; log sequence number 0 46409
+120322 21:14:04 [Note] PrimeBase XT Engine shutdown...
+120322 21:14:04 [Warning] Forcing shutdown of 1 plugins
+120322 21:14:04 [Note] z:\xampplite\mysql\bin\mysqld.exe: Shutdown complete
+
+120322 21:14:55 [Note] Plugin 'FEDERATED' is disabled.
+120322 21:14:55 [Note] PrimeBase XT (PBXT) Engine 1.0.08 RC loaded...
+120322 21:14:55 [Note] Paul McCullagh, PrimeBase Technologies GmbH, http://www.primebase.org
+120322 21:14:55  InnoDB: Started; log sequence number 0 46409
+120322 21:14:55 [Note] Event Scheduler: Loaded 0 events
+120322 21:14:55 [Note] z:\xampplite\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.1.37'  socket: ''  port: 3306  Source distribution
+120322 21:19:55 [Note] z:\xampplite\mysql\bin\mysqld.exe: Normal shutdown
+
+120322 21:19:56 [Note] Event Scheduler: Purging the queue. 0 events
+120322 21:19:58 [Warning] z:\xampplite\mysql\bin\mysqld.exe: Forcing close of thread 17  user: 'root'
+
+120322 21:19:58 [Warning] z:\xampplite\mysql\bin\mysqld.exe: Forcing close of thread 14  user: 'root'
+
+120322 21:19:58  InnoDB: Starting shutdown...
+120322 21:20:00  InnoDB: Shutdown completed; log sequence number 0 46409
+120322 21:20:00 [Note] PrimeBase XT Engine shutdown...
+120322 21:20:00 [Warning] Forcing shutdown of 1 plugins
+120322 21:20:00 [Note] z:\xampplite\mysql\bin\mysqld.exe: Shutdown complete
+
